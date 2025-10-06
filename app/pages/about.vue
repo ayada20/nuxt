@@ -85,8 +85,8 @@ function doSomething() {
       object with .value property).
     </li>
     <li>
-      reactive () : Typing reactive (recative() ) infers the type of its
-      argument(it is recomendable NOT usung it).
+      reactive () : Typing reactive (recvvccative() ) infers the type of its
+      argument(it is recomendable NOT usung it). HERE IS ANOTHER CHANE
     </li>
     <li>
       computed() : this infers its type based on the getter's return value.
@@ -99,15 +99,17 @@ function doSomething() {
   </button>
   <h1>8.Refs:</h1>
   <p>
-    With the.value PROPERTY... we can detect when a ref has been accesed or
-    mutated, Vue preforms the tracking in the egetter and performs it in its
-    setter. we van pass refs to functions too when renting access to the latest
-    value and the reactivity connection. In conclsion we can say that recativity
-    allows us to adjust changes in a declarative manner. Refs can hold deep
-    nested objects, arrays, JS(map). - nextTick() global API : it ensures that
-    each component updates only once no matter the times of changes we've made.
-    Types: - reactive() : - computed() : - event Handlers like
-    handleChange(event) : -provide / inject : - component Emits :
+    With the.value PROPERTY..here is the change, . we can detect when a ref has
+    been accesed or With the.value PROPERTY..here is the change, . we can detect
+    when a ref has been accesed or mutated, Vue preforms the tracking in the
+    egetter and performs it in its setter. we van pass refs to functions too
+    when renting access to the latest value and the reactivity connection. In
+    conclsion we can say that recativity allows us to adjust changes in a
+    declarative manner. Refs can hold deep nested objects, arrays, JS(map). -
+    nextTick() global API : it ensures that each component updates only once no
+    matter the times of changes we've made. Types: - reactive() : - computed() :
+    - event Handlers like handleChange(event) : -provide / inject : - component
+    Emits :
   </p>
 
   <h1>9. Props :</h1>
