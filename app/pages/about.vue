@@ -99,7 +99,7 @@ function doSomething() {
   </button>
   <h1>8.Refs:</h1>
   <p>
-    With the.value property we can detect when a ref has been accesed or
+    With the.value PROPERTY... we can detect when a ref has been accesed or
     mutated, Vue preforms the tracking in the egetter and performs it in its
     setter. we van pass refs to functions too when renting access to the latest
     value and the reactivity connection. In conclsion we can say that recativity
